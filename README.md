@@ -1,10 +1,12 @@
-### Results scraping using python's selenium and beautifulsoup
----
+### Scraping results using Python's Selenium and Beautifulsoup
 
-requirements:
+Requirements:
 
-- Python
-- Selenium
-- BeautifulSoup4
-- requests
+-   Python : [Download](https://www.python.org)
+-   Selenium
+-   BeautifulSoup4
+-   requests
+-   urllib3
 
+To install the dependencies, run the following command in the cloned directory
+` pip install -r requirements.txt`
