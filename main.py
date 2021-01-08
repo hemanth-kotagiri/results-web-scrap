@@ -4,6 +4,7 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import platform
 
 
 # num = input("Enter your hallticker number: ").upper()
@@ -11,10 +12,11 @@ from selenium import webdriver
 num = "185U1A0565"
 bday = "2001-04-03"
 
-driver = webdriver.Firefox(executable_path=os.path.join(os.getcwd(), 'geckodriver.exe'))
+driver_file = "geckodriver" if platform.system() == "Linux" else "geckodriver.exe"
+driver = webdriver.Firefox(executable_path=os.path.join(os.getcwd(),driver_file))
 
 
-url = 'http://202.63.105.184/results/jsp/SearchResult.jsp?degree=btech&examCode=1391&etype=r17&type=grade17'
+url = "http://202.63.105.184/results/jsp/SearchResult.jsp?degree=btech&examCode=1391&etype=r17&type=grade17"
 
 driver.get(url)
 
