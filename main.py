@@ -16,7 +16,8 @@ driver_file = "geckodriver" if platform.system() == "Linux" else "geckodriver.ex
 driver = webdriver.Firefox(executable_path=os.path.join(os.getcwd(),driver_file))
 
 
-url = "http://202.63.105.184/results/jsp/SearchResult.jsp?degree=btech&examCode=1391&etype=r17&type=grade17"
+# url = 'http://results.jntuh.ac.in/jsp/SearchResult.jsp?degree=btech&examCode=1437&etype=r17&type=intgrade' # 2, 2
+url = 'http://results.jntuh.ac.in/jsp/SearchResult.jsp?degree=btech&examCode=1391&etype=r17&type=grade17' # 2, 1
 
 driver.get(url)
 
