@@ -14,3 +14,118 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1621489589061	Marionette	INFO	Stopped listening on port 36727
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621685070956	geckodriver	INFO	Listening on 127.0.0.1:55359
+1621685071895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOJWyGe"
+1621685083598	geckodriver	INFO	Listening on 127.0.0.1:34471
+1621685083603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNmnDV2"
+1621685089796	Marionette	INFO	Marionette enabled
+
+(firefox:4201): Gtk-WARNING **: 17:34:50.535: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621685100204	Marionette	INFO	Listening on port 46307
+1621685100391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621685645217	geckodriver	INFO	Listening on 127.0.0.1:32831
+1621685646155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemZqB7S"
+1621685654325	Marionette	INFO	Marionette enabled
+
+(firefox:3933): Gtk-WARNING **: 17:44:14.849: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621685663809	Marionette	INFO	Listening on port 41495
+1621685663957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621685726159	Marionette	INFO	Stopped listening on port 41495
+1621685820341	geckodriver	INFO	Listening on 127.0.0.1:42113
+1621685820347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKlZyjx"
+1621685822264	Marionette	INFO	Marionette enabled
+
+(firefox:4621): Gtk-WARNING **: 17:47:02.345: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621685826168	Marionette	INFO	Listening on port 35661
+1621685826299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621685875693	Marionette	INFO	Stopped listening on port 35661
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621685876397	geckodriver	INFO	Listening on 127.0.0.1:43599
+1621685876403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQgt7U"
+1621685878393	Marionette	INFO	Marionette enabled
+
+(firefox:4978): Gtk-WARNING **: 17:47:58.477: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621685884367	Marionette	INFO	Listening on port 36833
+1621685884466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621685917249	Marionette	INFO	Stopped listening on port 36833
+1621686470761	geckodriver	INFO	Listening on 127.0.0.1:39907
+1621686470767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileevfNrZ"
+1621686473190	Marionette	INFO	Marionette enabled
+
+(firefox:6042): Gtk-WARNING **: 17:57:53.292: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621686478109	Marionette	INFO	Listening on port 36669
+1621686478266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621686502947	Marionette	INFO	Stopped listening on port 36669
+1621687640317	geckodriver	INFO	Listening on 127.0.0.1:46161
+1621687641253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBej1yO"
+1621687650359	Marionette	INFO	Marionette enabled
+
+(firefox:8555): Gtk-WARNING **: 18:17:31.009: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621687660066	Marionette	INFO	Listening on port 42527
+1621687660338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621687902933	Marionette	INFO	Stopped listening on port 42527
+1621687905947	geckodriver	INFO	Listening on 127.0.0.1:43191
+1621687906882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXcftKE"
+1621687909702	Marionette	INFO	Marionette enabled
+
+(firefox:9201): Gtk-WARNING **: 18:21:50.094: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621687915315	Marionette	INFO	Listening on port 45849
+1621687915452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621688099221	Marionette	INFO	Stopped listening on port 45849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621688100934	geckodriver	INFO	Listening on 127.0.0.1:37091
+1621688100941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevMBv4c"
+1621688103393	Marionette	INFO	Marionette enabled
+
+(firefox:9689): Gtk-WARNING **: 18:25:03.522: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621688107926	Marionette	INFO	Listening on port 46471
+1621688108025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621688180727	geckodriver	INFO	Listening on 127.0.0.1:59255
+1621688180733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepV7dYQ"
+1621688183258	Marionette	INFO	Marionette enabled
+1621688183325	Marionette	INFO	Stopped listening on port 46471
+
+(firefox:10000): Gtk-WARNING **: 18:26:23.403: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2926: TypeError: event.target.closest is not a function
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2926: TypeError: event.target.closest is not a function
+1621688188569	Marionette	INFO	Listening on port 32989
+1621688188722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621688275320	Marionette	INFO	Stopped listening on port 32989
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621688275956	geckodriver	INFO	Listening on 127.0.0.1:38649
+1621688275962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLjf7R0"
+1621688278316	Marionette	INFO	Marionette enabled
+
+(firefox:10373): Gtk-WARNING **: 18:27:58.433: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621688282499	Marionette	INFO	Listening on port 44509
+1621688282618	Marionette	WARN	TLS certificate errors will be ignored for this session

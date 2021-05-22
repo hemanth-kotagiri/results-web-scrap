@@ -51,22 +51,26 @@ next_url = driver.current_url
 
 sel_html = driver.execute_script("return document.documentElement.outerHTML")
 
-sel_soup = BeautifulSoup(sel_html, 'lxml')
+# print(sel_html)
+sel_soup = BeautifulSoup(sel_html, 'html.parser')
 
 result = (sel_soup.prettify())
 
 subjects = []
 grades = []
 name = ""
- 
+
 tables = sel_soup.find_all('table')
 
-print(len(tables))
+""" tables[0] consists the information regarding the student """
+""" tables[1] consists the subject code, subject name, grade and credits"""
 
-for i in range(len(tables)):
-    if i == 1: continue
-    print(tables[i].find_all_next('b'))
-    break
+# print(len(tables))
+
+# for i in range(len(tables) - 1):
+    # if i == 1: continue
+    # print(tables[i].find_all_next('tr'))
+    # break
 
 
 
