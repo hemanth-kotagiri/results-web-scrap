@@ -129,3 +129,480 @@ This may indicate that pixbuf loaders or the mime database could not be found.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1621688282499	Marionette	INFO	Listening on port 44509
 1621688282618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689554336	geckodriver	INFO	Listening on 127.0.0.1:55951
+1621689554340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUrMzvf"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689557220	Marionette	INFO	Listening on port 33375
+1621689557266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689579241	Marionette	INFO	Stopped listening on port 33375
+1621689579577	geckodriver	INFO	Listening on 127.0.0.1:53229
+1621689579580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoKB096"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689581601	Marionette	INFO	Listening on port 36561
+1621689581708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689614275	Marionette	INFO	Stopped listening on port 36561
+1621689614892	geckodriver	INFO	Listening on 127.0.0.1:44053
+1621689614896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHqvIDh"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689616721	Marionette	INFO	Listening on port 43213
+1621689616822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689772572	geckodriver	INFO	Listening on 127.0.0.1:33551
+1621689772575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehtWMfF"
+[GFX1-]: glxtest: Could not connect to wayland socket
+1621689773363	Marionette	INFO	Stopped listening on port 43213
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689774542	Marionette	INFO	Listening on port 41283
+1621689774600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689823153	Marionette	INFO	Stopped listening on port 41283
+1621689829076	geckodriver	INFO	Listening on 127.0.0.1:35119
+1621689829079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPHRst"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689830930	Marionette	INFO	Listening on port 33775
+1621689831001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689857022	Marionette	INFO	Stopped listening on port 33775
+1621689858050	geckodriver	INFO	Listening on 127.0.0.1:41377
+1621689858057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8BjPKF"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689860086	Marionette	INFO	Listening on port 42239
+1621689860179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689912570	Marionette	INFO	Stopped listening on port 42239
+1621689916555	geckodriver	INFO	Listening on 127.0.0.1:47563
+1621689916558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewFYXu3"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621689918628	Marionette	INFO	Listening on port 34451
+1621689918680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621689935736	Marionette	INFO	Stopped listening on port 34451
+1621690442904	geckodriver	INFO	Listening on 127.0.0.1:55739
+1621690442906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4xUCrk"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621690444497	Marionette	INFO	Listening on port 41025
+1621690444528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621690666987	Marionette	INFO	Stopped listening on port 41025
+1621690668365	geckodriver	INFO	Listening on 127.0.0.1:52867
+1621690668369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnUirh"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621690670336	Marionette	INFO	Listening on port 33551
+1621690670421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621690735648	Marionette	INFO	Stopped listening on port 33551
+1621690736672	geckodriver	INFO	Listening on 127.0.0.1:57199
+1621690736677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqztMLG"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621690738735	Marionette	INFO	Listening on port 37771
+1621690738815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621690821494	Marionette	INFO	Stopped listening on port 37771
+1621690823417	geckodriver	INFO	Listening on 127.0.0.1:49023
+1621690823422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX4Dsq4"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621690825556	Marionette	INFO	Listening on port 46515
+1621690825646	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1621690907657	Marionette	INFO	Stopped listening on port 46515
+1621690909083	geckodriver	INFO	Listening on 127.0.0.1:60899
+1621690909087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenwK55c"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621690911125	Marionette	INFO	Listening on port 45673
+1621690911221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621690946268	Marionette	INFO	Stopped listening on port 45673
+1621691208630	geckodriver	INFO	Listening on 127.0.0.1:53151
+1621691208633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletyi2fL"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691210534	Marionette	INFO	Listening on port 34805
+1621691210559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691281293	Marionette	INFO	Stopped listening on port 34805
+1621691346357	geckodriver	INFO	Listening on 127.0.0.1:48781
+1621691346360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWVavh1"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691348295	Marionette	INFO	Listening on port 38363
+1621691348379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691362612	geckodriver	INFO	Listening on 127.0.0.1:43035
+1621691362615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileegbQn1"
+[GFX1-]: glxtest: Could not connect to wayland socket
+1621691363512	Marionette	INFO	Stopped listening on port 38363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691364769	Marionette	INFO	Listening on port 42799
+1621691364859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691431872	Marionette	INFO	Stopped listening on port 42799
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621691432420	geckodriver	INFO	Listening on 127.0.0.1:56673
+1621691432423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoYMoiN"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691434400	Marionette	INFO	Listening on port 43129
+1621691434446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691460679	Marionette	INFO	Stopped listening on port 43129
+1621691461848	geckodriver	INFO	Listening on 127.0.0.1:33229
+1621691461851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDjXeP0"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691463869	Marionette	INFO	Listening on port 39257
+1621691463974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691495999	geckodriver	INFO	Listening on 127.0.0.1:36959
+1621691496003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezR1C33"
+[GFX1-]: glxtest: Could not connect to wayland socket
+1621691496740	Marionette	INFO	Stopped listening on port 39257
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691498039	Marionette	INFO	Listening on port 46819
+1621691498130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691526032	Marionette	INFO	Stopped listening on port 46819
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621691526936	geckodriver	INFO	Listening on 127.0.0.1:52547
+1621691526939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledBxrza"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691528922	Marionette	INFO	Listening on port 45593
+1621691528962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691648348	Marionette	INFO	Stopped listening on port 45593
+1621691649571	geckodriver	INFO	Listening on 127.0.0.1:56051
+1621691649574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerGDVIs"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691651530	Marionette	INFO	Listening on port 39529
+1621691651598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691727562	geckodriver	INFO	Listening on 127.0.0.1:35859
+1621691727565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT25zSZ"
+[GFX1-]: glxtest: Could not connect to wayland socket
+1621691728192	Marionette	INFO	Stopped listening on port 39529
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691729509	Marionette	INFO	Listening on port 42949
+1621691729588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691754565	Marionette	INFO	Stopped listening on port 42949
+1621691755271	geckodriver	INFO	Listening on 127.0.0.1:56175
+1621691755274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPNGFY"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691757173	Marionette	INFO	Listening on port 45315
+1621691757213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621691941555	Marionette	INFO	Stopped listening on port 45315
+1621691942602	geckodriver	INFO	Listening on 127.0.0.1:52131
+1621691942605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGJHBji"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621691944466	Marionette	INFO	Listening on port 39683
+1621691944529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692011934	Marionette	INFO	Stopped listening on port 39683
+1621692012431	geckodriver	INFO	Listening on 127.0.0.1:47115
+1621692012434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWNbX6i"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692014328	Marionette	INFO	Listening on port 39947
+1621692014357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692029244	Marionette	INFO	Stopped listening on port 39947
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621692596144	geckodriver	INFO	Listening on 127.0.0.1:51775
+1621692596148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOOs4wZ"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692598066	Marionette	INFO	Listening on port 46605
+1621692598171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692662597	Marionette	INFO	Stopped listening on port 46605
+1621692665460	geckodriver	INFO	Listening on 127.0.0.1:37541
+1621692665463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6AyMkL"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692667363	Marionette	INFO	Listening on port 41215
+1621692667383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692722738	Marionette	INFO	Stopped listening on port 41215
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621692724012	geckodriver	INFO	Listening on 127.0.0.1:55879
+1621692724015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHGtEky"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692725912	Marionette	INFO	Listening on port 44113
+1621692725943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692765766	geckodriver	INFO	Listening on 127.0.0.1:54697
+1621692765769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQA2vaA"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692767655	Marionette	INFO	Listening on port 36991
+1621692767695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692768636	Marionette	INFO	Stopped listening on port 44113
+1621692799241	geckodriver	INFO	Listening on 127.0.0.1:48961
+1621692799244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePXvOI2"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+1621692803760	Marionette	INFO	Stopped listening on port 36991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621692805368	geckodriver	INFO	Listening on 127.0.0.1:55315
+1621692805372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNQ0M1s"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692807327	Marionette	INFO	Listening on port 38207
+1621692807394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692831205	Marionette	INFO	Stopped listening on port 38207
+1621692832326	geckodriver	INFO	Listening on 127.0.0.1:60121
+1621692832329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Fi0nT"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692834207	Marionette	INFO	Listening on port 39375
+1621692834252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692846387	Marionette	INFO	Stopped listening on port 39375
+1621692848205	geckodriver	INFO	Listening on 127.0.0.1:50497
+1621692848208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaqW8BW"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692850152	Marionette	INFO	Listening on port 43453
+1621692850233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692871384	geckodriver	INFO	Listening on 127.0.0.1:50697
+1621692871387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV4smoP"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692873269	Marionette	INFO	Listening on port 46843
+1621692873316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692875702	Marionette	INFO	Stopped listening on port 43453
+1621692935569	geckodriver	INFO	Listening on 127.0.0.1:41627
+1621692935572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg9h4bJ"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692937587	Marionette	INFO	Listening on port 45347
+1621692937693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692940137	Marionette	INFO	Stopped listening on port 46843
+1621692942186	Marionette	INFO	Stopped listening on port 45347
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621692960638	geckodriver	INFO	Listening on 127.0.0.1:53173
+1621692960642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWCz2F0"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692962597	Marionette	INFO	Listening on port 42863
+1621692962661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692971015	geckodriver	INFO	Listening on 127.0.0.1:35637
+1621692971018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8TF0KV"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692972930	Marionette	INFO	Listening on port 37671
+1621692973037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621692977282	Marionette	INFO	Stopped listening on port 42863
+1621692978494	Marionette	INFO	Stopped listening on port 37671
+1621693011343	geckodriver	INFO	Listening on 127.0.0.1:36013
+1621693011346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNQPnm5"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693013352	Marionette	INFO	Listening on port 42101
+1621693013466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693017583	Marionette	INFO	Stopped listening on port 42101
+1621693026230	geckodriver	INFO	Listening on 127.0.0.1:47311
+1621693026233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9KU5sE"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693028152	Marionette	INFO	Listening on port 45253
+1621693028252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693322703	Marionette	INFO	Stopped listening on port 45253
+1621693323733	geckodriver	INFO	Listening on 127.0.0.1:37465
+1621693323737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemNYJfw"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693325605	Marionette	INFO	Listening on port 40183
+1621693325657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693341128	geckodriver	INFO	Listening on 127.0.0.1:43903
+1621693341131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiEBqxL"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693342988	Marionette	INFO	Listening on port 39051
+1621693343053	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1621693345339	Marionette	INFO	Stopped listening on port 40183
+1621693351049	Marionette	INFO	Stopped listening on port 39051
+1621693405722	geckodriver	INFO	Listening on 127.0.0.1:37179
+1621693405726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesIY7fb"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693407626	Marionette	INFO	Listening on port 35065
+1621693407654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693615462	Marionette	INFO	Stopped listening on port 35065
+1621693616532	geckodriver	INFO	Listening on 127.0.0.1:37899
+1621693616536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuCgyhv"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693618407	Marionette	INFO	Listening on port 33411
+1621693618458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693674175	geckodriver	INFO	Listening on 127.0.0.1:46945
+1621693674178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoC2tBO"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693676062	Marionette	INFO	Listening on port 38697
+1621693676111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693678244	Marionette	INFO	Stopped listening on port 33411
+1621693705037	geckodriver	INFO	Listening on 127.0.0.1:44687
+1621693705040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1VF1hl"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693706948	Marionette	INFO	Listening on port 43951
+1621693707061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693724971	Marionette	INFO	Stopped listening on port 38697
+1621693725152	Marionette	INFO	Stopped listening on port 43951
+1621693727232	geckodriver	INFO	Listening on 127.0.0.1:57579
+1621693727235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSOfqOJ"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693729138	Marionette	INFO	Listening on port 37963
+1621693729160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693747564	geckodriver	INFO	Listening on 127.0.0.1:49299
+1621693747567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiOFAlb"
+[GFX1-]: glxtest: Could not connect to wayland socket
+1621693748872	Marionette	INFO	Stopped listening on port 37963
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693749655	Marionette	INFO	Listening on port 44305
+1621693749689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693841592	Marionette	INFO	Stopped listening on port 44305
+1621693842686	geckodriver	INFO	Listening on 127.0.0.1:37233
+1621693842689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZsBmRy"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693844572	Marionette	INFO	Listening on port 33527
+1621693844611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693883773	Marionette	INFO	Stopped listening on port 33527
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621693893329	geckodriver	INFO	Listening on 127.0.0.1:38765
+1621693893332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHTxWOe"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693895283	Marionette	INFO	Listening on port 33385
+1621693895353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693950356	Marionette	INFO	Stopped listening on port 33385
+1621693981072	geckodriver	INFO	Listening on 127.0.0.1:37121
+1621693981076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAttaDg"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693982963	Marionette	INFO	Listening on port 38769
+1621693983002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621693994966	Marionette	INFO	Stopped listening on port 38769
+1621693996015	geckodriver	INFO	Listening on 127.0.0.1:43903
+1621693996018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Q2AnR"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693997940	Marionette	INFO	Listening on port 35167
+1621693998039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694224150	geckodriver	INFO	Listening on 127.0.0.1:35429
+1621694224153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewgW0II"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694226056	Marionette	INFO	Listening on port 38091
+1621694226077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694227273	Marionette	INFO	Stopped listening on port 35167
+1621694236959	Marionette	INFO	Stopped listening on port 38091
+1621694284389	geckodriver	INFO	Listening on 127.0.0.1:58599
+1621694284392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2SLghc"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694286358	Marionette	INFO	Listening on port 35219
+1621694286415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694324457	geckodriver	INFO	Listening on 127.0.0.1:39431
+1621694324461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEusEnC"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694326404	Marionette	INFO	Listening on port 36633
+1621694326481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694326774	Marionette	INFO	Stopped listening on port 35219
+1621694342123	Marionette	INFO	Stopped listening on port 36633
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621694764829	geckodriver	INFO	Listening on 127.0.0.1:48763
+1621694764833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFAnwR"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694766731	Marionette	INFO	Listening on port 40555
+1621694766760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694776548	Marionette	INFO	Stopped listening on port 40555
+1621694779987	geckodriver	INFO	Listening on 127.0.0.1:33769
+1621694779990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXXkNBS"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694781820	Marionette	INFO	Listening on port 36923
+1621694781909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694926735	Marionette	INFO	Stopped listening on port 36923
+1621694949932	geckodriver	INFO	Listening on 127.0.0.1:54835
+1621694949936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevQ25uo"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694951751	Marionette	INFO	Listening on port 43139
+1621694951855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621694960380	Marionette	INFO	Stopped listening on port 43139
+1621694961531	geckodriver	INFO	Listening on 127.0.0.1:34227
+1621694961534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqzayt3"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694963367	Marionette	INFO	Listening on port 45117
+1621694963456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695328709	geckodriver	INFO	Listening on 127.0.0.1:37615
+1621695328712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH8QqYZ"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695330451	Marionette	INFO	Listening on port 46289
+1621695330533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695330940	Marionette	INFO	Stopped listening on port 45117
+1621695356290	geckodriver	INFO	Listening on 127.0.0.1:59599
+1621695356293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuSAacC"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695357971	Marionette	INFO	Listening on port 42949
+1621695358048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695360048	Marionette	INFO	Stopped listening on port 46289
+1621695364304	Marionette	INFO	Stopped listening on port 42949
+1621695365215	geckodriver	INFO	Listening on 127.0.0.1:54317
+1621695365218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSyJH5"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695366978	Marionette	INFO	Listening on port 39737
+1621695367066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695384620	Marionette	INFO	Stopped listening on port 39737
+1621695447930	geckodriver	INFO	Listening on 127.0.0.1:46993
+1621695447933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFektGU"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695449865	Marionette	INFO	Listening on port 39623
+1621695449959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695465253	Marionette	INFO	Stopped listening on port 39623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621695469065	geckodriver	INFO	Listening on 127.0.0.1:55011
+1621695469068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSNqJI0"
+[GFX1-]: glxtest: Could not connect to wayland socket
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695470936	Marionette	INFO	Listening on port 41421
+1621695470988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621695501840	Marionette	INFO	Stopped listening on port 41421
